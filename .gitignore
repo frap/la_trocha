@@ -1,0 +1,11 @@
+public/
+
+.work/
+.cache/
+
+.clj-kondo/.cache/
+.clj-kondo/babashka/
+.clj-kondo/http-kit/
+.clj-kondo/rewrite-clj/
+
+.lsp/
