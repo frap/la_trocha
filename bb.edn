@@ -15,7 +15,7 @@
                    :out-dir "public"
                    :posts-dir "posts"
                    :templates-dir "templates"
-                   :blog-description "All the deets on our Madrid hang-out!  Posts are tagged for easy grouping - aka FAQ, biking etc"})
+                   :blog-description "All the deets on our Madrid hang-out!"})
   quickblog {:doc "Start blogging quickly! Run `bb quickblog help` for details."
              :task (cli/dispatch opts)}
 
