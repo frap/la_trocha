@@ -3,9 +3,9 @@
         {:git/sha "3a1d6aff07f692f6e62606317f3d9e981b1df702"}}
  :tasks
  {:requires ([quickblog.cli :as cli])
-  :init (def opts {:blog-title "Gas & Zuri Spain Adventuras"
+  :init (def opts {:blog-title "Gas & Zuri Spainish Adventuras"
                    :blog-author "Gas"
-                   :blog-root   "https://latrocha.tuatara.red"
+                   :blog-root   "https://madrid.tuatara.red"
                    :assets-dir  "assets"
                    :num-index-posts 10
                    :cache-dir ".cache"
