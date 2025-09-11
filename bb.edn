@@ -11,6 +11,7 @@
                    :cache-dir ".cache"
                    :favicon  true
                    :favicon-dir "favicon"
+                   :twitter-handle "agasson"
                    :out-dir "public"
                    :posts-dir "posts"
                    :templates-dir "templates"
