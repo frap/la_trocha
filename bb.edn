@@ -7,7 +7,7 @@
                    :blog-author "Gas"
                    :blog-root   "https://latrocha.tuatara.red"
                    :assets-dir  "assets"
-                   :num-index-posts 4
+                   :num-index-posts 10
                    :cache-dir ".cache"
                    :favicon  true
                    :favicon-dir "favicon"

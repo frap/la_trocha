@@ -5,6 +5,9 @@ Tags: FAQ, water, heating, boiler
 
 La Trocha runs off a diesel filled boiler in back building. You will
 need to turn the boiler on when you arrive. Get the key form the
-kitchen drawer marked "Boiler" or "Caldera" and open it up. Switch off
-when you leave as well.
+kitchen drawer marked "Boiler" or "Caldera" and open it up. 
+
+![Boiler-switch](./assets/boiler.jpg)
+
+Switch the boiler back off when you leave as well.
 
