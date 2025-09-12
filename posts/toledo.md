@@ -1,7 +1,7 @@
 Title: Toledo
 Author: Gas
 Date: 2025-03-22
-Tags: touristic, castillo, knights armour, monastry
+Tags: touristic, castillo, knights armour, monastry, Toldeo
 
 Toledo is where the best armour for aspiring knights can be found.
 Also if you want a sword then this is your place.

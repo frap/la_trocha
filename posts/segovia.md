@@ -1,7 +1,7 @@
 Title: Segovia
 Author: Gas
 Date: 2025-03-23
-Tags: touristic, roman, castillo, cathedral
+Tags: touristic, roman, castillo, cathedral, Segovia
 
 Seqovia is the poster child for Roman aqueducts. It also has the
 Alcazar castle which was copied by Disney? and a pretty big cathedral.

@@ -1,7 +1,7 @@
 Title: Avila
 Author: Gas
 Date: 2025-03-21
-Tags: touristic, castillo, walled town
+Tags: touristic, castillo, walled town, Avila
 
 Avila has a massive wall around the bottom of the old town. Wroth
 going up and having a walk along the walls - costs about 10 Euros.

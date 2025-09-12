@@ -4,5 +4,11 @@ Date: 2025-02-23
 Tags: keys, house, casa
 
 The keys for all the different doors in the house are in the kitchen
-in the top draw by the stove. They should all be tagged. Just use the front door keys
-if you leave the house and make sure the kitchen door is locked.
+in the top draw by the stove. They should all be tagged. 
+
+Just use the front door keys if you leave the house and make sure the kitchen door is locked.
+
+<!-- end-of-preview -->
+For emergencies if you need help and who have extra keys: 
+Jose (Casi) 646 49 40 89
+or George Bell  61 8350489
